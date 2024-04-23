@@ -5,8 +5,8 @@
 
 <div>
   <a href="https://github.com/Gaby-britto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gaby-britto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaby-britto&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gaby-britto&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaby-britto&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 <div>
    <img align="center" height="35" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
