@@ -1,8 +1,5 @@
 ![github-header-image](https://github.com/Gaby-britto/Gaby-britto/assets/154287645/098155e2-2919-4494-b1ae-02897fa5cd1a)
 
-- 🔭 Atualmente faço parte de um projeto de aprendizagem na empresa Libbs Farmacêutica
-- 🌱 Cursando Técnico de Desenvolvimento de Sistemas
-
 <div>
   <a href="https://github.com/Gaby-britto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gaby-britto&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
